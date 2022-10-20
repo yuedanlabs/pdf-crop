@@ -2,6 +2,10 @@
 
 Crop a large pdf file into serveral smaller files suitable for A4 printing.
 
+<p align="center">
+  <img src="./screenshot.png" />
+</p>
+
 ## Usage
 
 - modify `input.pdf`
